@@ -1,0 +1,9 @@
+name: SMBedwars
+version: '${version}'
+main: dev.smcodes.smbedwars.SMBedwars
+authors: [SMCodes]
+description: A simple plugin for bedwars
+commands:
+  arena:
+    description: This is a simple command of access the arena manager
+    usage: /<command>
